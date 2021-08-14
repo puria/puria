@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Metrics](https://metrics.lecoq.io/puria?template=classic&isocalendar=1&lines=1&stars=1&tweets=1&isocalendar.duration=full-year&stars.limit=4&tweets.attachments=true&tweets.limit=2&tweets.user=pna&config.timezone=Europe%2FRome&config.display=large)
+
 <!--
 **puria/puria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
